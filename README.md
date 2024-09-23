@@ -15,16 +15,12 @@
  + [Youtube](https://www.youtube.com/)
 
 # Experiments
- :smirk:	
- :heart_eyes:	
- :kissing_heart:
- 	:hushed:	
-  :expressionless:
-  :unamused:	
-  :sweat_smile:	
-  :sweat:
-  :disappointed_relieved:	
-  :weary:	
+ + :smirk:	
+ + :heart_eyes:	
+ + :kissing_heart:
+ + :hushed:	
+ + :expressionless:
+	
 
 ## Keyboard shortcuts
 ### Shortcuts I often use: 
