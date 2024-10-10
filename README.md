@@ -32,3 +32,4 @@
 + Ctrl-F (Find)
 + Window-Tab (Open task view)
 
+[CLI commands](docs/cli.md)
