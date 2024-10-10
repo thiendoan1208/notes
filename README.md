@@ -23,11 +23,11 @@
 	
 
 ## Keyboard shortcuts
-1. Shortcuts I often use: 
+1. Shortcuts i often use: 
 + Ctrl-N (New Tab) 
 + Ctrl-C (Paste)
 + Window-Space (Change Language)
-2. Shortcuts I would like to start using:
+2. Shortcuts i would like to start using:
 + Window-D (Turn on or turn off page)
 + Ctrl-F (Find)
 + Window-Tab (Open task view)
